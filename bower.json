@@ -1,0 +1,17 @@
+{
+  "name": "bakery",
+  "description": "Верстка для портфолио",
+  "main": "index.js",
+  "authors": [
+    "Anton Sobolevsky <boapik123@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Boapik123/Bakery",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

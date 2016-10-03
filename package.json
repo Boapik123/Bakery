@@ -1,0 +1,23 @@
+{
+  "name": "bakery",
+  "version": "1.0.0",
+  "description": "Верстка для портфолио",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boapik123/Bakery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boapik123/Bakery/issues"
+  },
+  "homepage": "https://github.com/Boapik123/Bakery#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1"
+  }
+}
